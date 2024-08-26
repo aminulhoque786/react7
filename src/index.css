@@ -1,0 +1,86 @@
+@media (max-width: 950px)  {
+    
+  .menu a{
+    text-align: center;
+  
+   
+    
+}
+#plan {
+  padding-top: 10px;
+}
+.jiku {
+  padding:20px;
+}
+.navbar-nav a{
+    padding: 10px 0px;
+     
+  }
+  .navbar-nav{
+    column-gap: 30px;
+    color: white;
+
+}
+.navbar-collapse {
+    text-align: center;
+    background-color: rgb(193, 235, 235);
+    padding: 10px 10px;
+   opacity: 90%;
+}
+  
+  
+  .menu img {
+        width: 130px;
+      }
+
+      .huku h2 {
+        
+        font-size: 25px;
+       
+      }
+      .huku h4 {
+        
+        font-size: 33px;
+      }
+      .huku p {
+        
+        font-size: 12px;
+        
+      }
+      input {
+       
+        width: 198px;
+        padding: 7px 9px;
+      }
+      .jiku h2 {
+        font-size: 20px;
+       
+      }
+      .jiku img {
+        width: 244px;
+      }
+      .hello span {
+        padding-left: 271px;
+        font-size: 22px;
+      }
+      #shop {
+        padding:0px;
+      }
+      .disc{
+        padding-top: 40px;
+      }
+      .disc img {
+        width: 240px;
+      }
+
+      #about {
+        padding: 10px;
+        background-color: #f8f6f1;
+      }
+
+      .joy button {
+        
+        right: 40px;
+        top: 3px;
+      }
+}

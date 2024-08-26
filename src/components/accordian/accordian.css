@@ -1,0 +1,47 @@
+   
+   #plan {
+     padding-top: 60px ;
+    }
+    #plan .might {
+      
+      display: flex;
+      justify-content: center;
+   }
+   .hello{
+  
+  border: 1px solid black;
+
+   opacity: 80%;
+}
+.jiku{
+  padding: 40px;
+}
+.jiku img{
+  width:800px;
+}
+.hello Button{
+    background-color: rgb(122, 190, 168);
+    color: black;
+}
+.hello span{
+  padding-left: 500px;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+.hello p{
+ 
+     background-color: bisque;
+    padding: 30px;
+    transition: .9s;
+   
+   }
+   .jiku {
+    text-align: center;
+    align-items: center;
+   }
+   .jiku h2{
+    font-size: 34px;
+    font-family: "Open Sans", sans-serif;
+   }

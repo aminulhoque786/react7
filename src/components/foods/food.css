@@ -1,0 +1,15 @@
+#food{
+
+}
+.hih{
+    border: transparent;
+    text-align: center;
+}
+.card {
+    
+   border: transparent !important;
+}
+.card:hover{
+    transform: scale(1.1); 
+    transition: .5s;
+}

@@ -1,0 +1,54 @@
+#banner{
+    background-color:#F7D38A;
+    padding: 150px 0;
+}
+.huku h2{
+    color:#242321  ;
+    font-family: "Open Sans", sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+.huku h4{
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 44px;
+    padding-top: 10px;
+}
+.huik button {
+    padding: 11px 22px;
+    font-weight: 600;
+    border-radius: 10px;
+    color: #f8f7f5;
+    background-color: #242321;
+}
+.huku p{
+    font-family: "Paprika", system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 10px;
+    color: #6e6c65;
+}
+.huik{
+    padding-top: 50px;
+}
+input{
+    border: 1px solid black;
+   width: 550px;
+   padding: 10px 14px;
+}
+
+
+.lie img{
+  margin-top: 50px;
+}
+.hui{
+    padding-top: 30px;
+}
+.hui button{
+    padding: 10px 30px;
+    background-color:rgb(241, 99, 123);
+ font-weight: 600;
+ border-radius: 10px;
+}

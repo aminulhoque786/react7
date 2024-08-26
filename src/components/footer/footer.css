@@ -1,0 +1,76 @@
+#about{
+    padding: 120px 100px;
+    background-color:#f8f6f1;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(107, 91, 91);
+}
+.footer h2{
+    font-weight: 600;
+}
+.jio a{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    color: rgb(107, 91, 91);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 5px;
+    
+}
+.joy button{
+    background-color: #a5e759;
+}
+.kio a{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    font-size: 18px;
+    color: rgb(107, 91, 91);
+    font-weight: 500;
+    padding: 5px;
+    
+}
+.busy a{
+    color: rgb(107, 91, 91);
+    font-size: 20px ;
+    font-weight: 500;
+    text-decoration: none;
+}
+.joy {
+    position: relative;
+}
+.joy input{
+    width:250px;
+ 
+}
+
+.joy button {
+    position: absolute;
+    z-index: 1;
+    font-weight: 600;
+    right: 16px;
+    top: 6px;
+}
+.mick{
+    padding-top: 50px;
+}
+.mick img{
+width:40px;
+
+}
+.lion img{
+    padding-top: 30px;
+    width:100px;
+}
+.tio a{
+    padding-top: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.mick h4{
+    padding-top: 40px;
+}
